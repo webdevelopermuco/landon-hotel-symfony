@@ -40,4 +40,5 @@ class ErrorResponseSubscriber implements EventSubscriberInterface
             KernelEvents::RESPONSE => 'onResponse'
         ];
     }
+    //
 }
