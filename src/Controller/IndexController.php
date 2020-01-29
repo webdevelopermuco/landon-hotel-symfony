@@ -16,7 +16,7 @@ class IndexController extends  AbstractController
     private const HOTEL_OPENED = 1969;
 
     /**
-     * @Route("/{y}", methods={"GET|HEAD"})
+     * @Route("/")
      */
 
     public function home(LoggerInterface $logger, DateCalculator $dateCalculator,Request $request)
