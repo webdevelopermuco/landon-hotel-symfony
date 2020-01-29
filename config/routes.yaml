@@ -2,3 +2,8 @@
 #    path: /
 #    controller: App\Controller\DefaultController::index
 
+_some_route:
+  path: /api/rooms/{token}
+  controller: App\Controller\ApiController::home
+  requirements:
+    token: .+
