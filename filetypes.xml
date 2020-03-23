@@ -4,6 +4,7 @@
       <mapping pattern="sdaf" type="JSON" />
       <mapping pattern="turkeyCitiesCopy" type="JSON5" />
       <mapping pattern="categories" type="JSON5" />
+      <mapping pattern="search" type="JSON5" />
       <mapping pattern="turkeyCities" type="JSON5" />
       <mapping pattern="hangidosyanereye" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
