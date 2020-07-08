@@ -13,6 +13,7 @@
       <mapping pattern="tryfile" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_bu" type="PLAIN_TEXT" />
       <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
