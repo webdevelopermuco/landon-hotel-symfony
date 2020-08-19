@@ -6,7 +6,6 @@
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="SelectInProjectView">
-    <keyboard-shortcut first-keystroke="f" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SelectInRemoteHost">
