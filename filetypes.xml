@@ -6,6 +6,7 @@
       <mapping pattern="turkeyCities" type="JSON5" />
       <mapping pattern="categories" type="JSON5" />
       <mapping pattern="turkeyCitiesCopy" type="JSON5" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="tryfile" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_bu" type="PLAIN_TEXT" />
       <mapping pattern="hangidosyanereye" type="PLAIN_TEXT" />
