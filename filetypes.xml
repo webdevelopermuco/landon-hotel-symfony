@@ -12,6 +12,7 @@
       <mapping pattern="hangidosyanereye" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
