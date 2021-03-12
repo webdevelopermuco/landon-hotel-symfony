@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="MarketApi" type="AUTO_DETECTED" />
       <mapping pattern="sdaf" type="JSON" />
       <mapping pattern="search" type="JSON5" />
       <mapping pattern="turkeyCities" type="JSON5" />
