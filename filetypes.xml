@@ -1,22 +1,22 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="MarketApi" type="AUTO_DETECTED" />
       <mapping pattern="b" type="AUTO_DETECTED" />
       <mapping pattern="todo" type="AUTO_DETECTED" />
-      <mapping pattern="MarketApi" type="AUTO_DETECTED" />
       <mapping pattern="sdaf" type="JSON" />
+      <mapping pattern="turkeyCitiesCopy" type="JSON5" />
       <mapping pattern="search" type="JSON5" />
       <mapping pattern="turkeyCities" type="JSON5" />
       <mapping pattern="categories" type="JSON5" />
-      <mapping pattern="turkeyCitiesCopy" type="JSON5" />
-      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping pattern="tryfile" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess_bu" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="hangidosyanereye" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping pattern=".gitkepp" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="env" type="PLAIN_TEXT" />
       <mapping ext="mp4" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
